@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+venv/
+.env
+
+uploaded_docs/
+vector_store/
+
+.git/
+.gitignore
+
+.cache/
+.streamlit/
